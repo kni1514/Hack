@@ -1,0 +1,291 @@
+1. Computer Fundamentals
+Computer architecture
+CPU, RAM, storage
+Binary, hexadecimal, octal
+Data representation
+File systems
+BIOS/UEFI
+Virtualization
+Containers
+2. Operating Systems
+Linux (deep understanding)
+Windows internals
+macOS fundamentals
+Android basics
+iOS basics
+Kernel concepts
+Processes and threads
+Memory management
+Scheduling
+Permissions and security models
+Boot process
+Services and daemons
+Filesystems
+3. Linux Administration
+Bash
+Shell scripting
+Users and groups
+Permissions
+Networking
+Systemd
+Cron
+SSH
+Package management
+Log analysis
+Kernel modules
+4. Kali Linux
+Kali tools
+Package management
+Customizing Kali
+Tool usage
+Building labs
+5. Networking
+OSI model
+TCP/IP
+IPv4
+IPv6
+Routing
+Switching
+VLANs
+ARP
+ICMP
+DNS
+DHCP
+NAT
+HTTP/HTTPS
+SMTP
+POP3
+IMAP
+FTP
+SMB
+NFS
+LDAP
+SNMP
+VPN
+SSH
+TLS
+Firewalls
+Packet analysis
+Wireshark
+Network troubleshooting
+6. Programming
+Python
+C
+C++
+JavaScript
+SQL
+Bash
+PowerShell
+Go (optional but useful)
+Rust (optional)
+Regular expressions
+7. Data Structures & Algorithms
+Arrays
+Linked lists
+Trees
+Graphs
+Hash tables
+Searching
+Sorting
+Recursion
+Complexity analysis
+8. Databases
+SQL
+MySQL
+PostgreSQL
+SQLite
+MongoDB
+Redis
+Database security
+9. Web Development
+HTML
+CSS
+JavaScript
+DOM
+HTTP
+REST APIs
+GraphQL
+Cookies
+Sessions
+Authentication
+Authorization
+JWT
+WebSockets
+10. Web Application Security
+OWASP Top 10
+XSS
+SQL Injection
+CSRF
+SSRF
+XXE
+SSTI
+File upload attacks
+Command injection
+IDOR
+Authentication flaws
+Business logic flaws
+API security
+OAuth
+JWT attacks
+11. Cryptography
+Symmetric encryption
+Asymmetric encryption
+Hashing
+Digital signatures
+Certificates
+PKI
+TLS/SSL
+Random number generation
+Key exchange
+12. Ethical Hacking Methodology
+Reconnaissance
+OSINT
+Enumeration
+Vulnerability assessment
+Exploitation
+Privilege escalation
+Persistence (in authorized lab settings)
+Lateral movement
+Pivoting
+Post-exploitation
+Reporting
+13. Information Gathering
+Google dorking
+DNS enumeration
+WHOIS
+Shodan
+Public records
+Metadata analysis
+Social engineering awareness
+14. Vulnerability Assessment
+CVEs
+CVSS
+Scanners
+Risk analysis
+False positives
+Manual verification
+15. Wireless Security
+Wi-Fi fundamentals
+WPA2/WPA3
+Bluetooth
+NFC
+RFID
+Zigbee
+IoT security basics
+16. Windows Security
+Active Directory
+Kerberos
+NTLM
+Group Policy
+PowerShell
+Windows internals
+Event logs
+17. Active Directory Security
+Domain architecture
+Trusts
+LDAP
+Delegation
+Common misconfigurations
+Defensive concepts
+18. Cloud Security
+AWS
+Azure
+Google Cloud
+IAM
+Storage security
+Containers
+Kubernetes
+Serverless security
+19. Mobile Security
+Android architecture
+APK analysis
+iOS basics
+Mobile application security
+20. Reverse Engineering
+Assembly language
+x86/x64
+ARM basics
+Ghidra
+IDA basics
+Debugging
+Static analysis
+Dynamic analysis
+21. Malware Analysis
+Malware types
+Sandboxing
+Behavioral analysis
+Indicators of compromise
+Reverse engineering basics
+22. Binary Exploitation
+Buffer overflows
+Stack
+Heap
+Format string vulnerabilities
+Return-oriented programming (ROP)
+Mitigations (ASLR, DEP, etc.)
+23. Digital Forensics
+Disk forensics
+Memory forensics
+Network forensics
+Timeline analysis
+Evidence handling
+24. Secure Coding
+Input validation
+Authentication
+Authorization
+Secure storage
+Secure API design
+Threat modeling
+25. DevSecOps
+Git
+CI/CD
+Docker
+Kubernetes
+Infrastructure as Code
+Security testing in pipelines
+26. Security Operations
+SIEM
+IDS/IPS
+Endpoint detection
+Log analysis
+Incident response
+27. Threat Intelligence
+MITRE ATT&CK
+Cyber Kill Chain
+Threat hunting
+Indicators of compromise
+28. Hardware & Embedded Security
+Microcontrollers
+Firmware
+JTAG
+UART
+Secure boot
+TPM
+29. IoT Security
+Embedded Linux
+MQTT
+IoT protocols
+Firmware analysis
+30. AI Security
+Prompt injection
+LLM security
+Model security
+AI application security
+31. Security Governance
+Risk management
+Security policies
+Compliance (ISO 27001, NIST, PCI DSS, GDPR, etc.)
+Ethics
+Responsible disclosure
+32. Professional Skills
+Technical writing
+Penetration testing reports
+Communication
+Presentation skills
+Project management
+33. Practice Platforms
+Hack The Box
+TryHackMe
+PortSwigger Web Security Academy
+OverTheWire
+VulnHub
