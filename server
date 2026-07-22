@@ -1,0 +1,9 @@
+echo "Welcome To Hacking !"
+echo "Developer : Niranjan"
+wget cloudflare -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64
+chmod +x cloudflared-linux-amd64
+mv cloudflared-linux-amd64 server
+echo "run server like  : python -m http.server port"
+echo "make public with ./server tunnel --url localhost:port"
+echo "to using again and again , follow last two lines"
+echo "Happy Hacking ........!"
