@@ -17,6 +17,7 @@
             height: 100vh !important;
             z-index: 999999 !important;
             background: #000000 !important;
+             color: #FFFFFF !important;
         }
 
         body {
